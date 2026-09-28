@@ -64,6 +64,7 @@ Software engineer with deep expertise in cross-platform mobile development (Flut
 | **Automation & Integration** | Google Apps Script (GAS), Webhooks, RESTful APIs, Google Drive API |
 | **Data & Storage** | PostgreSQL, Firestore, SQLite, Encrypted Local Cache |
 | **Dev & Reporting Tools** | Git, GitHub, Postman, PDF/Excel Native Generators (`pdf`, `printing`, `excel`) |
+| **Telecom** | OSS · KPI Analysis · Network Monitoring · Telecom Data Analytics |
 
 ---
 
