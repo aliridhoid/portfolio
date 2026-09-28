@@ -80,3 +80,6 @@ Software engineer with deep expertise in cross-platform mobile development (Flut
 ## 📬 Contact & Connect
 082220292251
 id.aliridho@gmail.com
+
+> Source code for selected projects is private
+> and available upon request.
